@@ -12,3 +12,8 @@
 	path = domain366/app3
 	url = git@github.com:domain366/app3.git
 	branch = master
+
+[submodule "domain366/app4"]
+	path = domain366/app4
+	url = git@github.com:domain366/app4.git
+	branch = master
